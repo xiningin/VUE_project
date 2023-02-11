@@ -1,7 +1,5 @@
 # hanoi_tower
 
-![image](./网页版hanoi_tower/界面展示.png)
-
 ## Project setup
 ```
 npm install
